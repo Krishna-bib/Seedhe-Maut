@@ -1,0 +1,62 @@
+{
+    "album": "Lunch_Break",
+    "description": "A collection of emotional tracks.",
+    "songs": [
+      {
+        "title": "Swahh",
+        "artist": "Seedhe Maut ft.Badshah",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712518/Swah_tcfaxm.mp3"
+      },
+      {
+        "title": "Joint in the Booth",
+        "artist": "Seedhe Maut",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712515/Joint_In_The_Booth_-_Seedhe_Maut_wcaitt.mp3"
+      },
+      {
+        "title": "I don't miss that life",
+        "artist": "Seedhe Maut",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712514/I_Don_t_Miss_That_Life_-_Seedhe_Maut_otfy1u.mp3"
+      },
+      {
+        "title": "Lukka Chuppi",
+        "artist": "Seedhe Maut ft.Bandzo3rd",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712514/Luka_Chippi_m3upvt.mp3"
+      },
+      {
+        "title": "Dikkat",
+        "artist": "Seedhe Maut",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712512/Dikkat_-_Seedhe_Maut_Prod._Hurricane_dlerck.mp3"
+      },
+      {
+        "title": "Brand New",
+        "artist": "Seedhe Maut",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712512/Brand_New_-_Seedhe_Maut_vrnc5s.mp3"
+      },
+      {
+        "title": "Champions",
+        "artist": "Seedhe Maut ft.Rawal",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712512/Champion_emqxdb.mp3"
+      },
+      {
+        "title": "Asal G",
+        "artist": "Seedhe Maut ft. Farish shafi",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712511/Asal_G_gcdk7p.mp3"
+      },
+      {
+        "title": "Akatsuki",
+        "artist": "Seedhe Maut ft.Raga",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712511/Akatsuki_b2ddnv.mp3"
+      },
+      {
+        "title": "W",
+        "artist": "Seedhe Maut",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712509/W_-_Seedhe_Maut_eccnsu.mp3"
+      },
+      {
+        "title": "11K",
+        "artist": "Seedhe Maut",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712509/11K_-_Seedhe_Maut_udewud.mp3"
+      }
+    ]
+  }
+  

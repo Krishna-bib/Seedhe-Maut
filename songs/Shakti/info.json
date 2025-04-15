@@ -1,0 +1,26 @@
+{
+  "album": "Shakti",
+  "description": "A collection of emotional tracks.",
+  "songs": [
+    {
+      "title": "soyi nahi",
+      "artist": "Kjoift",
+      "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712528/Seedhe_Maut_-_Soyi_Nahi_Shakti_dl91_x2wqpd.mp3"
+    },
+    {
+      "title": "Raat ki Rani",
+      "artist": "Kjoift",
+      "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712526/Seedhe_Maut_-_Raat_ki_Rani_Shakti_dl91_mff1uf.mp3"
+    },
+    {
+      "title": "Naksha",
+      "artist": "Kjoift",
+      "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712524/Seedhe_Maut_-_Naksha_Shakti_dl91_zmfwhi.mp3"
+    },
+    {
+      "title": "Kush nahi",
+      "artist": "Kjoift",
+      "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712525/Seedhe_Maut_-_Khush_Nahi_Shakti_dl91_yn5csl.mp3"
+    }
+  ]
+}

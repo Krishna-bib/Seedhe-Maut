@@ -1,0 +1,37 @@
+{
+    "album": "kh",
+    "description": "A collection of emotional tracks.",
+    "songs": [
+      {
+        "title": "RED",
+        "artist": "Seedhe Maut",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712497/Seedhe_Maut_-_RED_wyoljx.mp3"
+      },
+      {
+        "title": "ICE",
+        "artist": "Seedhe Maut",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712495/ICE_jc48c8.mp3"
+      },
+      {
+        "title": "Gourmet shit",
+        "artist": "Seedhe Maut ft.Raftar",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712496/Gourmet_Shit_foari1.mp3"
+      },
+      {
+        "title": "Moon comes up",
+        "artist": "Seedhe Maut ft.Badshah",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712496/Moon_Comes_Up_q95tqg.mp3"
+      },
+      {
+        "title": "Round 3",
+        "artist": "Seedhe Maut ",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712497/Round_3_nymutl.mp3"
+      },
+      {
+        "title": "Shakti aur Khashma",
+        "artist": "Seedhe Maut ",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712511/Shakti_Aur_Kshama_gtgccc.mp3"
+      }
+    ]
+  }
+  

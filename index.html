@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="utility.css">
+  <link rel="stylesheet" href="https://cdn.hugeicons.com/font/hgi-stroke-rounded.css" />
+
+
+  <title>Spotify - Web Player: Music for everyone</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  <div class="containe flex bg-black">
+    <div class="left  ">
+      <div class="close">
+        <img src="img/close.svg" alt="" class="invert" width="30">
+      </div>
+      <div class="home bg-grey rounded  m-1 p-1">
+        <div class="tbsmlogo">
+          <img src="img/smlogo.jpg" alt="" class="sm">
+          <b>TBSM</b>
+        </div>
+        <div class="homebtn">
+          <ul>
+            <li><img src="img/home.svg" class="invert" alt="Home">Home</li>
+            <li><img src="img/search.svg" class="invert" alt="Search">Search</li>
+          </ul>
+        </div>
+
+      </div>
+      <div class="library bg-grey rounded m-1 p-1">
+        <div class="heading">
+          <img src="img/playlist.svg" alt="playlist" class="invert">
+          <h2>SM drops</h2>
+
+        </div>
+        <div class="songlist">
+          <ul>
+
+          </ul>
+        </div>
+        <div class="footer">
+          <div><a href="https://www.spotify.com/in-en/legal/">Legal</a></div>
+          <div><a href="https://www.spotify.com/in-en/safetyandprivacy/">Safety & Privacy Center</a></div>
+          <div><a href="https://www.spotify.com/in-en/legal/privacy-policy/">Privacy Policy</a></div>
+          <div><a href="https://www.spotify.com/in-en/legal/cookies-policy/">Cookies</a></div>
+          <div><a href="https://www.spotify.com/in-en/legal/privacy-policy/#s3">About Ads</a></div>
+          <div><a href="https://www.spotify.com/in-en/accessibility/">Accessibility</a></div>
+          <!-- <div><a href="https://www.spotify.com/legal/cookies-policy/" target="_blank" rel="noopener">Cookies</a></div> -->
+        </div>
+
+      </div>
+
+    </div>
+    <div class="right rounded  p-1">
+      <div class="header">
+        <div class="nav">
+          <div class="flex ham">
+            <img class="hamburger invert" src="img/hamburger.svg" alt="">
+            <i class="hgi hgi-stroke hgi-arrow-left-01"></i>
+            <i class="hgi hgi-stroke hgi-arrow-right-01"></i>
+          </div>
+
+        </div>
+        <div class="buttons">
+          <img src="img/images.jpeg" alt="">
+          <a href="https://www.instagram.com/seedhemaut?igsh=MXB0ZzRuYm55MWFhZg=="> <button
+              class="login">Follow</button></a>
+        </div>
+      </div>
+      <div class="spotifyPlaylist">
+        <h1>𝕊𝕆𝕌ℕ𝔻 𝕆𝔽 𝕊𝕃𝔸𝕌𝔾ℍ𝕋𝔼ℝ𝕊</h1>
+        <div class="cardContanier">
+
+          <div data-floder="Lunch_Break" class="card">
+            <div class="image-wrapper">
+              <img src="img/lunch_break.jpeg" alt="">
+              <svg class="hover-icon" viewBox="0 0 24 24" fill="white" width="24" height="24"
+                xmlns="http://www.w3.org/2000/svg">
+                <path
+                  d="M7.05 3.606L20.54 11.394a.7.7 0 0 1 0 1.212L7.05 20.394A.7.7 0 0 1 6 19.788V4.212a.7.7 0 0 1 1.05-.606z" />
+              </svg>
+            </div>
+            <h3>Lunch Break</h3>
+            <p>Brunch of bars, blood on beats — lyrical killing spree.</p>
+          </div>
+          <div data-floder="Na" class="card">
+            <div class="image-wrapper">
+              <img src="img/na.jpeg" alt="">
+            </div>
+            <h3>न</h3>
+            <p>Goddess with a blade — divine rage in every bar.</p>
+          </div>
+
+          <div data-floder="Shakti" class="card">
+            <div class="image-wrapper">
+              <img src="img/shakti.jpeg" alt="">
+
+            </div>
+            <h3>Shakti</h3>
+            <p>Peace denied — forgiveness drowned in black-hearted truths.</p>
+          </div>
+          <div data-floder="kh" class="card">
+            <div class="image-wrapper">
+              <img src="img/khsama.jpeg" alt="">
+
+            </div>
+            <h3>Khsama</h3>
+            <p>Not applicable to rules — unfiltered chaos, underground legacy.</p>
+          </div>
+
+
+
+        </div>
+
+      </div>
+      <div class="playbar">
+        <div class="seekbar">
+          <div class="circle">
+
+          </div>
+        </div>
+        <div class="abovebar">
+          <div class="songinfo">
+            <span class="placeholder">Longest Song Name.mp3</span>
+            <span class="actual"></span>
+          </div>
+
+          <div class="songbuttons">
+            <img id="previous" src="img/prevsong.svg" alt="">
+            <img id="play" src="img/play.svg" alt="">
+            <img id="next" src="img/nextsong.svg" alt="">
+          </div>
+          <div class="volume-control">
+            <img class="invert" src="img/volume.svg" alt="">
+            <input type="range" min="0" max="1" step="0.01" value="1" id="volumeBar" >
+          </div>
+
+          <div class="songtime">
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>

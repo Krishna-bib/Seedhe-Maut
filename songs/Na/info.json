@@ -1,0 +1,54 @@
+
+
+{
+    "album": "Na",
+    "description": "A collection of emotional tracks.",
+    "songs": [
+      {
+        "title": "Nafrat",
+        "artist": "Kjoift",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712516/Nafrat_it1lvf.mp3"
+      },
+      {
+        "title": "Na Jayee",
+        "artist": "Kjoift",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712516/Na_Jaaye_shgzej.mp3"
+      },
+      {
+        "title": "Naamcheen",
+        "artist": "Kjoift",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712518/Seedhe_Maut_-_Naamcheen_Azadi_Records_bltxio.mp3"
+      },
+      {
+        "title": "Nazarbattu freestyle",
+        "artist": "Kjoift",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712518/Nazarbhattu_Freestyle_kcxhty.mp3"
+      },
+      {
+        "title": "Namastute",
+        "artist": "Kjoift",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712519/Seedhe_Maut_-_Namastute_Azadi_Records_vxtudn.mp3"
+      },
+      {
+        "title": "Nanchaku",
+        "artist": "Kjoift",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712519/Seedhe_Maut_-_Nanchaku_ft_MC_ST%CE%94N_Azadi_Records_nrglpl.mp3"
+      },
+      {
+        "title": "Natkhat",
+        "artist": "Kjoift",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712521/Seedhe_Maut_-_NATKHAT_cekfxx.mp3"
+      },
+      {
+        "title": "Nadaan",
+        "artist": "Kjoift",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712522/Seedhe_Maut_-_NADAAN_Azadi_Records_zsvjpa.mp3"
+      },
+      {
+        "title": "Nawazuddin",
+        "artist": "Kjoift",
+        "url": "https://res.cloudinary.com/dx9jo0kdz/video/upload/v1744712523/Seedhe_Maut_-_NAWAZUDDIN_hq37bp.mp3"
+      }
+    ]
+  }
+  
